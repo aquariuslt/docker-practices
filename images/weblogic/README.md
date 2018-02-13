@@ -24,3 +24,13 @@ docker pull aquariuslt/weblogic:12.2.1.2-developer
 
 
 
+
+
+
+## Reference / Q&A
+
+- Why I update `/u01/oracle` to `/home/oracle`
+
+You can refer this sof questions. [Why are Oracle directories named /u01 /u02 etc…?](https://softwareengineering.stackexchange.com/questions/79737/why-are-oracle-directories-named-u01-u02-etc)
+
+
